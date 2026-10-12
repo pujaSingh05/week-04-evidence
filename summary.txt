@@ -1,4 +1,3 @@
-Backend used: SIMULATED (no API key present — re-run with ANTHROPIC_API_KEY set for real evidence)
 Messages tested: 15
 
 --- Timing ---
