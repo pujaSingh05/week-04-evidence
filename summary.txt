@@ -1,0 +1,11 @@
+Backend used: SIMULATED (no API key present — re-run with ANTHROPIC_API_KEY set for real evidence)
+Messages tested: 15
+
+--- Timing ---
+Open-ended   avg: 0.7830s   median: 0.8072s
+Constrained  avg: 0.1149s   median: 0.1184s
+Speedup (avg): 6.81x
+
+--- Parsing reliability ---
+Open-ended   parse failures: 2 / 15
+Constrained  parse failures: 0 / 15
